@@ -6,6 +6,7 @@
 ### I enjoy connecting people for sharing information or just for playing together.
 ### Thus, I have built 955-内推群, 名校交友群, etc.
 ### Contact me:
+<img src="https://github.com/NicolasJY/NicolasJY/blob/main/wechat.jpg">
 
 
 <!--
