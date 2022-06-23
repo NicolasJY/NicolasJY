@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
+### I'm Alex, co-founder of logos consulting(逻格思) 🤗.
+### 🎯 Our company focus on recriutement service in internet, AI, fintech, microchip domain.
+### Here you can see all the [jobs](https://docs.qq.com/sheet/DYkl2T2hDQ1hkSGVN).
 
 <!--
 **NicolasJY/NicolasJY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on logos consulting
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
