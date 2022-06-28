@@ -1,10 +1,10 @@
 ### Hi there 👋 
-### I'm Alex, co-founder of logos consulting(逻格思) 🤗.
-### 🎯 Our company focus on recriutement service in internet, AI, fintech, microchip domain.
-### Here you can see all the [jobs](https://docs.qq.com/sheet/DYkl2T2hDQ1hkSGVN). 
-###
-### I enjoy connecting people for sharing information or just for playing together.
-### Thus, I have built 955-内推群, 名校交友群, etc.
+ - 🤗 I'm Alex, co-founder of logos consulting(逻格思) .
+ - 🎯 Our company focus on recriutement service in internet, AI, fintech, microchip domain.
+      Here you can see all the [jobs](https://docs.qq.com/sheet/DYkl2T2hDQ1hkSGVN). 
+
+ - 👨‍👨‍👦‍👦 I enjoy connecting people for sharing information or just for playing together.
+       Thus, I have built 955-内推群, 名校交友群, etc.
 ### Contact me:
 <img src="https://github.com/NicolasJY/NicolasJY/blob/main/wechat.jpg">
 
