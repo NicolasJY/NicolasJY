@@ -4,7 +4,7 @@
       Here you can see all the [jobs](https://docs.qq.com/sheet/DYkl2T2hDQ1hkSGVN). 
 
  - 👨‍👨‍👦‍👦 I enjoy connecting people for sharing information or just for playing together.
-       Thus, I have built 955-内推群, 名校交友群, etc.
+       Thus, I have built 外企内推群*3, 名校交友群, etc.
 ### Contact me:
 <img src="https://github.com/NicolasJY/NicolasJY/blob/main/wechat.jpg">
 
